@@ -23,7 +23,7 @@ sass:
 compress-site: yes
 
 encoding: "utf-8"
-compress_html: # - http://jch.penibelst.de/
+compress_html: https://sssssunny.github.io/
   clippings: all
   ignore:
     envs: development
