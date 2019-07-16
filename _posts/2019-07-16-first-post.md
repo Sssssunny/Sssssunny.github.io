@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
+title: "First Test"
 date: 2019-07-16 15:45
-categories: jekyll update
+categories: test
 ---
 ## ohmygirl - SSFWL
 ```	
