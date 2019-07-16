@@ -109,7 +109,7 @@ author:
   name             : "Sunny"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My name is Sunny."
-  location         : "Osan, Gyeonggi-do, Republic of Korea"
+  location         : "Osan, Gyeonggi-do"
   email            :
   links:
     - label: "Email"
