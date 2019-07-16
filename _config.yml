@@ -18,10 +18,10 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
+title: Sunny's Page
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
+url: https://Sssssunny.github.io/
 baseurl: "/end2end"
 
 google_analytics: UA-52446115-1
@@ -36,8 +36,8 @@ author:
   bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
   thumb: /images/author.jpg
   email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
+  url: https://Sssssunny.github.io/
+  github: https://github.com/Sssssunny
   twitter: https://twitter.com/umdevux
   facebook: https://facebook.com/umdevux
   linkedin: https://linkedin.com/in/nandomoreirame
