@@ -9,4 +9,18 @@ categories: daily
 
 ![scratch](./img/scratch.png)
 
-스크래치로 만든 간단한 게임이다. 스크래치는 한 번도 해본 적 없었는데 여름방학에 처음으로 스크래치를 해보았다.
+> 스크래치로 만든 간단한 게임이다. 스크래치는 한 번도 해본 적 없었는데 여름방학에 처음으로 스크래치를 해보았다.
+
+![ai](./img/ai.png)
+
+> GTQ 일러스트레이터도 공부했다.
+
+![tistory](./img/tistory.jpg)
+
+![tistoryhtml](./img/tistoryhtml.jpg)
+
+> 티스토리도 시작했다. html과 css를 공부하면서 정보를 올리는 블로그로 만드려고 했는데 블로그 포스팅하는 게 쉬운 일이 아니었다. 인터넷에 공개된 티스토리 테마 소스를 조금 수정해서 적용했다.
+
+![book](./img/book.jpg)
+
+> 
